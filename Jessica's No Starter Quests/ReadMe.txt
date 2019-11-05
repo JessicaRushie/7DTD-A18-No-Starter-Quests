@@ -15,7 +15,7 @@ C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods\Jessica's No St
 
 _______________________________________________________________________________________________________________
 You are free to use this MOD any way you like,
-howwever i would like credit if it's used in a MOD Pask and such as it took me quite a long time to make.
+howwever i would like credit if it's used in a MOD Pack and such as it took me quite a long time to make.
 _______________________________________________________________________________________________________________
 Hope you enjoy.
 Jessica Rushie
