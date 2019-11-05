@@ -1,0 +1,12 @@
+<NoStarterQuests>
+
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival1']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival2']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival3']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival4']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival5']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival6']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival7']/objective"/>
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival8']/objective"/>
+			
+</NoStarterQuests>
