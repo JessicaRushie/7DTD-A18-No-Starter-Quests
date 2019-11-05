@@ -6,7 +6,7 @@ It removes all the Basic Survival Quests in a way where you still get the 4 Skil
 Just load into the game and in a few seconds you should get your 4 Points and the trader marker.
 
 <HOW TO>
-Simply place the unzipped file into your 7 Days To Die/Mods Folder.
+Simply place the unzipped file into your 7 Days To Die\Mods Folder.
 EG, "C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods"
 
 The file it should look like this,
