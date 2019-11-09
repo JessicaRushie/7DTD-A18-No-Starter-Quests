@@ -1,6 +1,9 @@
 ***************************************************************************************************************
 This is a MOD for 7 Days To Die Alpha 18.
 
+This is mostly for people who make videos or start new worlds a lot because the starter quests are a total
+waste of time.
+
 It removes all the Basic Survival Quests in a way where you still get the 4 Skill Points and the Trader Marker.
 
 Just load into the game and in a few seconds you should get your 4 Points and the trader marker.
